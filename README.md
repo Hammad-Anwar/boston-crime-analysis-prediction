@@ -17,7 +17,7 @@ This repository contains the code and report for an applied data-mining project 
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 
-````
+```
 
 ## Data
 - **Source:** “Crimes in Boston” dataset on Kaggle:  
@@ -37,7 +37,8 @@ Place the unzipped `crimes.csv` file under the `data/` folder before running the
    ```
    git clone https://github.com/your-username/boston-crime-prediction.git
    cd boston-crime-prediction
-````
+ 
+  ``
 
 2. **Create a Python 3 (≥3.7) virtual environment**
 
@@ -113,7 +114,7 @@ Place the unzipped `crimes.csv` file under the `data/` folder before running the
 * **Logistic Regression** achieved \~67% accuracy on the test set.
 * **Random Forest** reached \~31% accuracy but provided richer feature-importance insights.
 * Temporal peaks: late nights & weekends; spatial hotspots: certain districts.
-* Full results, figures, and discussion are in `reports/crimes-in-boston-report.docx.pdf` .
+* Full results, figures, and discussion are in `reports/crimes-in-boston-report.docx.pdf`.
 
 ## Contributing
 
@@ -124,4 +125,3 @@ Contributions are welcome! Please open issues or submit pull requests for bug fi
 * **Hammad Anwar**
 * **Supervisor:** Sir Asif Khalid, SZABIST Karachi
 
-```
