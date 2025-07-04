@@ -1,4 +1,3 @@
-```markdown
 # Crimes in Boston Analysis and Prediction
 
 ## Project Overview
